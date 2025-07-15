@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hiel PDF Converter
+Comment=Convert PDF files to various formats
+Exec=%APP_DIR%/hiel-converter.sh
+Icon=%APP_DIR%/assets/hiel-converter.png
+Terminal=false
+Categories=Office;Graphics;Publishing;
+StartupNotify=true
+MimeType=application/pdf;
+Keywords=PDF;converter;document;office;
+GenericName=PDF Converter
+StartupWMClass=hiel-converter
